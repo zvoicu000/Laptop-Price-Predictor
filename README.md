@@ -51,18 +51,6 @@ To set up this project locally, follow these steps:
    ```bash
    streamlit run app.py
    ```
-## Data
-
-The dataset used for training the model can be found in the `data` directory. The dataset includes features such as:
-
-- Brand
-- Processor
-- RAM
-- Storage
-- Screen Size
-- GPU
-
-Ensure that you preprocess the data as specified in `data_preprocessing.py`.
 
 ## Contributing
 
