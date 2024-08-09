@@ -48,7 +48,9 @@ To set up this project locally, follow these steps:
     pip install -r requirements.txt
     ```
 4. Run the app:
-   ```streamlit run app.py```
+   ```bash
+   streamlit run app.py
+   ```
 ## Data
 
 The dataset used for training the model can be found in the `data` directory. The dataset includes features such as:
